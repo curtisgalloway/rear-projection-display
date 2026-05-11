@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "IS31FL3236A-QFLS2-TR") (type "KiCad") (uri "${KIPRJMOD}/IS31FL3236A-QFLS2-TR.pretty") (options "") (descr "IS31FL3236A-QFLS2-TR QFN-44 footprint from SnapMagic"))
+  (lib (name "LED_RGB_10mm") (type "KiCad") (uri "${KIPRJMOD}/LED_RGB_10mm.pretty") (options "") (descr "10mm RGB through-hole LED, 4-pin 1.0mm pitch"))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "IS31FL3236A-QFLS2-TR") (type "KiCad") (uri "${KIPRJMOD}/IS31FL3236A-QFLS2-TR.kicad_sym") (options "") (descr "IS31FL3236A-QFLS2-TR LED driver from SnapMagic"))
+)

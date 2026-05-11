@@ -1,0 +1,24 @@
+# KiCad generated/temp files
+*.lck
+~*.kicad_pcb
+~*.kicad_pro
+~*.kicad_sch
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+rear-projection-display/output/
+rear-projection-display/DRC.rpt
+rear-projection-display/.history/
+rear-projection-display/.kicad-mcp/
+*.rpt
+
+# Python cache
+__pycache__/
+.ruff_cache/
+*.pyc
+
+# Claude Code local config
+.claude/
+
+# Scratch/intermediate files
+IS31FL3236A-QFLS2-TR-upgraded.kicad_sym
