@@ -94,9 +94,9 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D6"
-			(at 0 -7 0)
+			(at -0.075 -2.525 0)
 			(layer "F.SilkS")
-			(uuid "f5dc0713-2575-43c4-9fae-9387f3685af6")
+			(uuid "5b3066cb-a625-43e3-af2a-758ae01efa6f")
 			(effects
 				(font
 					(size 1 1)
@@ -107,7 +107,8 @@
 		(property "Value" "LED_RGB_10mm"
 			(at 8.2 -10.795 0)
 			(layer "B.Cu")
-			(uuid "b4e1f274-a51a-407f-8d86-c40758391799")
+			(hide yes)
+			(uuid "c96837e2-0b4f-463f-ab11-8733ac6d2123")
 			(effects
 				(font
 					(size 1 1)
@@ -119,7 +120,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "196d9c88-8350-47a7-9fbd-fa318ca52abf")
+			(uuid "926e2578-5fa8-4107-996c-60a0574e4048")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -130,7 +131,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b26b73f-034e-4012-93fd-2c84ebb632d5")
+			(uuid "71eb3d3c-0807-4818-a169-bded5b739c92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -218,7 +219,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D7"
-			(at 0 -7 0)
+			(at 0.075 -2.325 0)
 			(layer "F.SilkS")
 			(uuid "ee1703d1-fd12-4655-816c-ea2c90741974")
 			(effects
@@ -342,7 +343,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D12"
-			(at 0 -7 0)
+			(at -0.075 -2.525 0)
 			(layer "F.SilkS")
 			(uuid "ae39bc43-8c31-43b9-b086-8eb736ee936a")
 			(effects
@@ -466,7 +467,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D9"
-			(at 0 -7 0)
+			(at -0.225 -2.525 0)
 			(layer "F.SilkS")
 			(uuid "2d5b157a-5506-4f24-b46e-a7c19ab2c3cf")
 			(effects
@@ -479,6 +480,7 @@
 		(property "Value" "LED_RGB_10mm"
 			(at 8.2 -10.795 0)
 			(layer "B.Cu")
+			(hide yes)
 			(uuid "9e2a41d8-0b14-48c8-b8dd-19b9cad4d7fd")
 			(effects
 				(font
@@ -590,7 +592,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D5"
-			(at 0 -7 0)
+			(at 0.025 -2.475 0)
 			(layer "F.SilkS")
 			(uuid "6d87aaf4-f867-4e30-8ea7-8a7da63bf10b")
 			(effects
@@ -714,7 +716,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D10"
-			(at 0 -7 0)
+			(at -0.175 -2.425 0)
 			(layer "F.SilkS")
 			(uuid "edae47d1-7792-40ab-8920-a19ab260db02")
 			(effects
@@ -838,7 +840,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D2"
-			(at 0 -7 0)
+			(at -0.025 -2.475 0)
 			(layer "F.SilkS")
 			(uuid "1e5ac273-eccb-4045-99b3-44e1ddd98647")
 			(effects
@@ -962,7 +964,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D3"
-			(at 0 -7 0)
+			(at 0.075 -2.425 0)
 			(layer "F.SilkS")
 			(uuid "83fbd198-3fd9-47e1-8c0e-a1a093453550")
 			(effects
@@ -975,6 +977,7 @@
 		(property "Value" "LED_RGB_10mm"
 			(at 8.2 -10.795 0)
 			(layer "B.Cu")
+			(hide yes)
 			(uuid "be0362f2-e626-4d5c-82a8-6efba7f570c0")
 			(effects
 				(font
@@ -1086,7 +1089,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D4"
-			(at 0 -7 0)
+			(at 0.025 -2.625 0)
 			(layer "F.SilkS")
 			(uuid "1566e930-63d7-4cb2-862b-573ce8177ee5")
 			(effects
@@ -1210,7 +1213,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D1"
-			(at 0 -7 0)
+			(at 0 -2.525 0)
 			(layer "F.SilkS")
 			(uuid "232a4c5e-d687-4d9d-bf2a-76ba3a9c3e2b")
 			(effects
@@ -1334,7 +1337,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D11"
-			(at 0 -7 0)
+			(at -0.075 -2.675 0)
 			(layer "F.SilkS")
 			(uuid "a581b976-222c-415d-a9fd-6c0d04e77232")
 			(effects
@@ -1458,7 +1461,7 @@
 		(descr "10mm RGB LED, 4-pin 1.0mm pitch, common cathode, R-K-G-B left to right")
 		(tags "LED RGB 10mm through-hole")
 		(property "Reference" "D8"
-			(at 0 -7 0)
+			(at 0.075 -2.375 0)
 			(layer "F.SilkS")
 			(uuid "2de8a978-5fe2-4d70-89c5-c6afa7af602b")
 			(effects
@@ -1584,7 +1587,7 @@
 		(property "Reference" "R3"
 			(at 0 1.43 0)
 			(layer "B.SilkS")
-			(uuid "e3b43726-08fd-424c-b217-a2d415c9ebd1")
+			(uuid "e16173d9-8341-4b70-919a-1f704e6288a3")
 			(effects
 				(font
 					(size 1 1)
@@ -1596,7 +1599,7 @@
 		(property "Value" "4.7k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
-			(uuid "5710406e-6368-4cc1-897a-9e0d604607a6")
+			(uuid "04ce1d57-82e3-4d22-982b-47ba1c70a840")
 			(effects
 				(font
 					(size 1 1)
@@ -1609,7 +1612,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "31d5f26c-c73c-45c8-a5b0-70eb1e02772b")
+			(uuid "6e68f3a6-18cd-41e3-8155-6b9be5782918")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1621,7 +1624,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c4be3029-3809-4402-a7cd-d72d210df2a1")
+			(uuid "757c4d6d-8d6f-4b9e-81dc-ce691a66b9b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1742,7 +1745,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "48e0f576-2d50-4e84-9253-b2e010a6175d")
-		(at 141.5 106.49 180)
+		(at 141.575 106.5 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -2070,11 +2073,11 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "768f4ba3-43f3-4157-ba9d-330c8802197d")
-		(at 160.95 96 180)
+		(at 157.6 108.625 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 1.68 0)
+			(at 0.025 2.375 90)
 			(layer "B.SilkS")
 			(uuid "db0f90f1-4978-4be2-b141-4989f5c8ce26")
 			(effects
@@ -2086,7 +2089,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 -1.68 0)
+			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "d4e6e459-1037-446d-a37d-6751d4f7643b")
 			(effects
@@ -2098,7 +2101,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "abab2ab3-27de-4049-afe9-e565b5d09319")
@@ -2110,7 +2113,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d8bcecb9-49c6-4399-b26e-973e47a82709")
@@ -2122,7 +2125,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "8d4c0304-3f05-4245-83af-6af9a4db7c23")
@@ -2147,16 +2150,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.261252 0.735)
-			(end 0.261252 0.735)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "49065701-56d6-4b45-a4e8-0d4535d90888")
-		)
-		(fp_line
 			(start -0.261252 -0.735)
 			(end 0.261252 -0.735)
 			(stroke
@@ -2165,6 +2158,16 @@
 			)
 			(layer "B.SilkS")
 			(uuid "ba523f1b-5043-48ab-9b25-42fa310df216")
+		)
+		(fp_line
+			(start -0.261252 0.735)
+			(end 0.261252 0.735)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "49065701-56d6-4b45-a4e8-0d4535d90888")
 		)
 		(fp_rect
 			(start -1.7 0.98)
@@ -2189,7 +2192,7 @@
 			(uuid "73df2dfe-2dd4-4ce8-90f7-71ea403c01c2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -2.85 0.2 90)
 			(layer "B.Fab")
 			(uuid "391aca4b-9336-4928-a2e5-8172ff6620e1")
 			(effects
@@ -2201,7 +2204,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.95 0 180)
+			(at -0.95 0 90)
 			(size 1 1.45)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
@@ -2210,7 +2213,7 @@
 			(uuid "f1cdcaff-3cac-4d6c-ad44-a98a30143a08")
 		)
 		(pad "2" smd roundrect
-			(at 0.95 0 180)
+			(at 0.95 0 90)
 			(size 1 1.45)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
@@ -2234,7 +2237,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "76adc923-3412-494b-b1d9-1230745af51f")
-		(at 141.5 103.98 180)
+		(at 153.375 91 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -2398,11 +2401,11 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "B.Cu")
 		(uuid "adb82a85-dae1-45b6-8904-505a1f01ae3e")
-		(at 164.165 105.85 180)
+		(at 150.9 108.5 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 10.665 4.85 0)
+			(at -0.295 -1.925 90)
 			(layer "B.SilkS")
 			(uuid "c28fcf2c-c1ea-47c4-bd18-59f4e20f52b8")
 			(effects
@@ -2414,8 +2417,9 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 -1.16 0)
+			(at 0 -1.16 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "18f6a027-867a-42f1-8e0b-02ed7cbd8711")
 			(effects
 				(font
@@ -2426,7 +2430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "aa615c14-9891-44c7-b0ae-4c866be55ec6")
@@ -2438,7 +2442,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "71d2e274-4366-4160-8684-45b46794f01f")
@@ -2450,7 +2454,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "0b07ef79-074d-4f0f-a61c-fc2c1b06ff2c")
@@ -2475,16 +2479,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.107836 0.36)
-			(end 0.107836 0.36)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "98f55ba8-deb2-424a-b97a-d8bddf7dccda")
-		)
-		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
 			(stroke
@@ -2493,6 +2487,16 @@
 			)
 			(layer "B.SilkS")
 			(uuid "47c115eb-48ff-46f1-aaa5-574c42cf62ba")
+		)
+		(fp_line
+			(start -0.107836 0.36)
+			(end 0.107836 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "98f55ba8-deb2-424a-b97a-d8bddf7dccda")
 		)
 		(fp_rect
 			(start -0.91 0.46)
@@ -2517,7 +2521,7 @@
 			(uuid "6ac9ae68-8ebf-4d70-a0dc-616fe1d11aca")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(uuid "1046e318-0587-4a8e-9634-a69a4bb90660")
 			(effects
@@ -2529,7 +2533,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 180)
+			(at -0.48 0 90)
 			(size 0.56 0.62)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
@@ -2538,7 +2542,7 @@
 			(uuid "3ff5c2f3-a2ca-4966-94f0-2b5d594e6b59")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 180)
+			(at 0.48 0 90)
 			(size 0.56 0.62)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
@@ -4142,6 +4146,193 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "c91d11f7-2965-4ee0-bcf9-052f71077fed")
+	)
+	(gr_circle
+		(center 166.09 95.36)
+		(end 168.34 95.36)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "a1b2c3d4-e5f6-7890-abcd-ef1234567890")
+	)
+	(segment
+		(start 154 106.095)
+		(end 137.43 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "070c9c75-1f6e-48c5-8b5c-25159b321cbf")
+	)
+	(segment
+		(start 162.33 90.325)
+		(end 161.53 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "0ba9f6a6-57cc-430f-8e64-5557434deee7")
+	)
+	(segment
+		(start 173.58 113.625)
+		(end 173.58 101.575)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "0d8e1914-b5aa-444a-a77f-5af302a70bd6")
+	)
+	(segment
+		(start 162.33 114.425)
+		(end 172.78 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "1a23d262-ff49-413d-ada0-76d11854a330")
+	)
+	(segment
+		(start 137.43 89.525)
+		(end 138.23 90.325)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "1af8e0e9-1d9b-4a06-9673-0f5e73602a34")
+	)
+	(segment
+		(start 173.58 89.525)
+		(end 172.78 90.325)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "4187bebb-1eb4-4a72-be6c-f85ff13afc49")
+	)
+	(segment
+		(start 160.73 114.425)
+		(end 161.53 113.625)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "47679e03-be48-4a13-98bf-7dd7b243d1d0")
+	)
+	(segment
+		(start 148.68 90.325)
+		(end 149.48 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "5b05307d-d186-4bed-9324-41d4d7b80925")
+	)
+	(segment
+		(start 149.48 113.625)
+		(end 150.28 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "5b693364-5c73-487c-944e-8cdf544dd9f0")
+	)
+	(segment
+		(start 161.53 101.575)
+		(end 161.53 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "5e446453-a36f-42ba-931e-a73ecec1ac2d")
+	)
+	(segment
+		(start 137.43 101.575)
+		(end 137.43 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "7c06bb00-cf2b-47d8-80e5-c0eff9c89098")
+	)
+	(segment
+		(start 161.53 113.625)
+		(end 162.33 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "889d17d3-4460-4b21-b83e-7e863b8f7a5d")
+	)
+	(segment
+		(start 150.28 114.425)
+		(end 160.73 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "8d0e8b13-04d4-460d-8d6a-aa635038ebd2")
+	)
+	(segment
+		(start 137.43 101.575)
+		(end 137.43 113.625)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "8e9ebd73-57ad-474d-accb-4afeeb997baa")
+	)
+	(segment
+		(start 137.43 113.625)
+		(end 138.23 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "96794b7e-6753-4bc3-afed-f0696ec3feb2")
+	)
+	(segment
+		(start 154 107.5)
+		(end 154 106.095)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "a6c22366-9839-4e94-8531-a4403bdf64ee")
+	)
+	(segment
+		(start 138.23 114.425)
+		(end 148.68 114.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "b7d62957-5ead-46fa-a961-50ac0b9353ab")
+	)
+	(segment
+		(start 173.58 101.575)
+		(end 173.58 89.525)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "cf7d3e0f-779b-4b2b-a973-74ac61417cb2")
+	)
+	(segment
+		(start 172.78 90.325)
+		(end 162.33 90.325)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "db1fec65-0a1a-419c-9a0f-2a5bd9358085")
+	)
+	(segment
+		(start 148.68 114.425)
+		(end 149.48 113.625)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "eae97104-bcd0-4d87-b6c0-7162cd32a964")
+	)
+	(segment
+		(start 172.78 114.425)
+		(end 173.58 113.625)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "ef0a46f2-db3f-4583-b41c-60452a8f682b")
+	)
+	(segment
+		(start 138.23 90.325)
+		(end 148.68 90.325)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "fdb2cff3-189a-434f-b016-12eb5f6591bf")
 	)
 	(group ""
 		(uuid "1dc452c1-15eb-4e2d-9d01-34825f6d4b04")
