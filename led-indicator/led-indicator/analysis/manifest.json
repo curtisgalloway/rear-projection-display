@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "project": "led-indicator.kicad_pro",
+  "current": "2026-05-15_1149",
+  "runs": {
+    "2026-05-15_1149": {
+      "source_hashes": {
+        "led-indicator.kicad_sch": "sha256:5c7e7cfe03f952e690df49ca12af78899d26132d8949080051e2256ca24f1040",
+        "led-indicator.kicad_pcb": "sha256:be3f88b1d00ae999e438eb2ef8750f82b9637bfe342d8d9c03c8377ab1932796"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py led-indicator.kicad_sch"
+      },
+      "generated": "2026-05-15T11:49:58-07:00",
+      "pinned": false
+    }
+  }
+}
