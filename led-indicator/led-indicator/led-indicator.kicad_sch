@@ -4009,7 +4009,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C842299"
+			(at 140.97 43.18 0)
+			(uuid "ca47ce73-f067-4078-a174-074e72cf8eb6")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 140.97 43.18 0)
+			(uuid "f936e992-300a-4595-af62-0d9d518b3993")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C842299"
+			(at 140.97 43.18 0)
+			(uuid "08cb7b9e-2bc3-4cde-b292-c867a951a27d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 140.97 43.18 0)
+			(uuid "1c5b856c-0138-4fee-a059-22e718213784")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 199.39 133.35 0)
@@ -4165,7 +4196,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 38.1 85.09 0)
+			(uuid "bf2c42f5-96f2-47f8-a40f-46cbd74cb7c4")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 38.1 85.09 0)
+			(uuid "94003341-7888-48db-9bf5-c02ac785fc72")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 38.1 85.09 0)
+			(uuid "0f9d56f1-9965-4f6c-a66b-42127ec5f649")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 38.1 85.09 0)
+			(uuid "3830905e-7489-4c81-98ad-afc1c5df6402")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 218.44 60.96 0)
@@ -4555,7 +4617,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 104.14 85.09 0)
+			(uuid "7a0c72c7-e7bc-4c24-b20b-7b2240b0b12c")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 104.14 85.09 0)
+			(uuid "c0b6035f-d28a-4fe5-b7c5-c9cebb15720e")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 104.14 85.09 0)
+			(uuid "02ef538d-ce98-4042-b812-2f32735171ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 104.14 85.09 0)
+			(uuid "7935d02c-d0db-4610-a041-840ef6291045")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "LED:SK6812")
 		(at 95.25 68.58 0)
@@ -4640,7 +4733,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 95.25 68.58 0)
+			(uuid "bdd50340-f36b-4903-8eed-9dc11a6bdb03")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 95.25 68.58 0)
+			(uuid "eda55294-56d8-4cd3-b7bb-093c9ea181d6")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 95.25 68.58 0)
+			(uuid "19459bae-649c-432c-9716-c4e590e91d48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 95.25 68.58 0)
+			(uuid "5656138d-a69d-4ade-85d2-cd11a33d21f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 254 91.44 0)
@@ -4881,7 +5005,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 196.85 68.58 0)
+			(uuid "0ad10269-e6f8-42d6-81e6-860f6fb1a84c")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 196.85 68.58 0)
+			(uuid "70ef502b-1594-4de1-acfb-4395b510e2dc")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 196.85 68.58 0)
+			(uuid "bf4f50c1-e1d6-4ed7-92bd-d823c96416ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 196.85 68.58 0)
+			(uuid "ed7a6f2b-b87c-456b-ae81-ecb1f9b3706d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 133.35 142.24 0)
@@ -5122,7 +5277,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 53.34 68.58 0)
+			(uuid "7032340a-87e8-4d04-9d08-ee2a2aa6f4ea")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 53.34 68.58 0)
+			(uuid "b8f6b303-33e9-4231-b3f9-1df2670139a0")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 53.34 68.58 0)
+			(uuid "0bed3db9-3cac-45b7-b5dc-d034c636a921")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 53.34 68.58 0)
+			(uuid "748c3059-1053-4edb-984d-ff37f8192df9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C")
 		(at 60.96 85.09 0)
@@ -5200,7 +5386,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 60.96 85.09 0)
+			(uuid "e568b88d-2683-4444-922a-e5b65bc50955")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 60.96 85.09 0)
+			(uuid "fa7c2405-8f0c-435a-9a7d-67bf751db9ca")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 60.96 85.09 0)
+			(uuid "631fbfed-331a-4835-9b13-c0cd1189de04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 60.96 85.09 0)
+			(uuid "2df55189-c191-4ff7-9f8d-bea981f78daa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C")
 		(at 242.57 86.36 0)
@@ -5278,7 +5495,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 242.57 86.36 0)
+			(uuid "6effa739-6203-4f3f-98da-85201eb218b1")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 242.57 86.36 0)
+			(uuid "bd00903a-5797-4ff3-a5c6-e7819a30d22f")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 242.57 86.36 0)
+			(uuid "d72a2d14-a08a-4986-a94e-cb7cd762cb7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 242.57 86.36 0)
+			(uuid "67f2eb3f-bc52-458f-b944-b7a20cecbee7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "LED:SK6812")
 		(at 218.44 68.58 0)
@@ -5363,7 +5611,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 218.44 68.58 0)
+			(uuid "eb37e133-0779-43ab-9887-a1d915925a05")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 218.44 68.58 0)
+			(uuid "de1356a9-49d0-48fb-90f5-efb65204fe70")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 218.44 68.58 0)
+			(uuid "9c7c45ac-7aaa-43e7-8eff-a2a9c8a38aaa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 218.44 68.58 0)
+			(uuid "86cd5162-b254-466a-b58d-fe7d178cf662")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 30.48 60.96 0)
@@ -5519,7 +5798,17 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 144.78 85.09 0)
+			(uuid "f33c0200-850f-46c1-8bfd-fd3090d8baea")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 144.78 85.09 0)
+			(uuid "ba74b1d4-8413-4216-b0a9-6297361f773d")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
 	(symbol
 		(lib_name "SK6812_1")
 		(lib_id "LED:SK6812")
@@ -5604,7 +5893,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 30.48 68.58 0)
+			(uuid "304d4b02-33d4-409d-bd97-2d3b13184136")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 30.48 68.58 0)
+			(uuid "9340001d-dc61-44b7-8f75-de8ed3d9c26a")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 144.78 85.09 0)
+			(uuid "2bbc9daa-dc3b-40d9-ba40-1ebba1475f67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 144.78 85.09 0)
+			(uuid "f0756754-e8b3-4f7e-a6f6-dbf422628a23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "74xx:74AHCT125")
 		(at 118.11 43.18 0)
@@ -5720,7 +6040,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C842299"
+			(at 118.11 43.18 0)
+			(uuid "e1925dd1-b608-4986-a786-e3637bf69e10")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 118.11 43.18 0)
+			(uuid "5715f612-ae83-45e2-8843-fa7764188374")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C842299"
+			(at 118.11 43.18 0)
+			(uuid "f1109bb2-4fe3-4ae5-8948-c7a3210479b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 118.11 43.18 0)
+			(uuid "5e16424a-1785-4ab9-8b93-1ff43d71b647")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "LED:SK6812")
 		(at 236.22 68.58 0)
@@ -5805,7 +6156,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 236.22 68.58 0)
+			(uuid "d938a0d6-b67b-42d5-a7db-c8a8da3c5621")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 236.22 68.58 0)
+			(uuid "37c93423-79f4-4c3c-98f5-c34360bd5504")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 236.22 68.58 0)
+			(uuid "d5efba9a-0c33-4741-8c14-8185f9923ef6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 236.22 68.58 0)
+			(uuid "5c39c92a-240a-47a9-adf7-a4a3294154dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 142.24 138.43 0)
@@ -5883,7 +6265,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C3299"
+			(at 142.24 138.43 0)
+			(uuid "f8b49a7c-2823-48de-8d21-db3d8b172682")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "GR108M010F12RR0VL4FP0"
+			(at 142.24 138.43 0)
+			(uuid "90c46ea5-6015-4c0a-9a0f-cbe15e2ff20d")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C3299"
+			(at 142.24 138.43 0)
+			(uuid "9e182c15-a3f6-4456-ae28-ed9af0251520")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GR108M010F12RR0VL4FP0"
+			(at 142.24 138.43 0)
+			(uuid "f609b7d5-c8b5-4bc9-a3c8-ebc9900e19ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 254 60.96 0)
@@ -6350,7 +6763,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 260.35 85.09 0)
+			(uuid "ee6d6aee-4d96-4d42-93e6-898cf95981d7")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 260.35 85.09 0)
+			(uuid "a04d00c7-92dc-4d59-a062-fe2d9c2a02d6")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 260.35 85.09 0)
+			(uuid "5904d1d3-33b7-4089-8b65-059c553812c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 260.35 85.09 0)
+			(uuid "22fb6310-afa3-4937-be76-28601dbf5871")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 194.31 133.35 0)
@@ -6543,7 +6987,23 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C108769"
+			(at 116.84 137.16 0)
+			(uuid "e4c973fb-9a5d-406a-8066-41cdedbe2175")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C108769"
+			(at 116.84 137.16 0)
+			(uuid "6cbfa677-f4e4-4e66-99e9-d1ae58a41491")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 88.9 49.53 0)
@@ -6737,7 +7197,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C842299"
+			(at 88.9 43.18 0)
+			(uuid "6300919b-118d-4021-9e14-bd3ff3601d69")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 88.9 43.18 0)
+			(uuid "f3ca6903-35ac-44ab-a5d7-f38f277ac913")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C842299"
+			(at 88.9 43.18 0)
+			(uuid "92f854a4-4744-4793-a145-f1c09e0f6655")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 88.9 43.18 0)
+			(uuid "ef481052-e1ac-4c65-a265-00a476c4686d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 158.75 60.96 0)
@@ -7055,7 +7546,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 254 68.58 0)
+			(uuid "80d4dd46-2f27-4c04-9c4c-56da27d7933c")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 254 68.58 0)
+			(uuid "bcd8979b-1214-4660-ba80-a4fab30e4439")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 254.0 68.58 0)
+			(uuid "b5421b23-5bd2-4ab6-af80-4e190d1abda5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 254.0 68.58 0)
+			(uuid "03d9fc3f-2ef1-4ddb-9edd-1215c1ecc562")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 236.22 91.44 0)
@@ -7214,7 +7736,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C144394"
+			(at 184.15 135.89 0)
+			(uuid "9772fa0a-1531-46de-9401-69dcff9f6dc0")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "B3B-XH-A(LF)(SN)"
+			(at 184.15 135.89 0)
+			(uuid "b15444b7-0012-4689-a57d-1ebf12cdd116")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C144394"
+			(at 184.15 135.89 0)
+			(uuid "6d8f9115-70e9-4292-a25d-0f47a1afc56f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B3B-XH-A(LF)(SN)"
+			(at 184.15 135.89 0)
+			(uuid "ac17be80-fb6d-42fd-bff1-03363475c199")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 116.84 91.44 0)
@@ -7377,7 +7930,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 158.75 68.58 0)
+			(uuid "65531f3e-b19f-4a6b-a52f-46a6323556c3")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 158.75 68.58 0)
+			(uuid "ffed5396-e4e1-4103-8db3-0c0b3d5ed34d")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 158.75 68.58 0)
+			(uuid "500ca11a-49ae-4ac8-ba54-25b4e7fa4a20")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 158.75 68.58 0)
+			(uuid "445229d6-9d72-4c78-abe2-a6ac0b98fb46")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "LED:SK6812")
 		(at 116.84 68.58 0)
@@ -7462,7 +8046,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 116.84 68.58 0)
+			(uuid "f6841bf2-9be1-424f-a5f2-088167c319e4")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 116.84 68.58 0)
+			(uuid "9aac3638-b180-4ef4-bc65-3fb863deb04b")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 116.84 68.58 0)
+			(uuid "f0fd02e5-aa07-4675-a971-bf04235796a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 116.84 68.58 0)
+			(uuid "4a9d9587-c749-42e3-ad54-cad7aad16148")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:R")
 		(at 100.33 43.18 270)
@@ -7540,7 +8155,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C23138"
+			(at 100.33 43.18 0)
+			(uuid "7a9e8984-058e-4021-ae74-419602d472cf")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "0603WAF3300T5E"
+			(at 100.33 43.18 0)
+			(uuid "daca440a-9a57-4af4-85fe-24b13d683ec8")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C23138"
+			(at 100.33 43.18 0)
+			(uuid "65af60be-4f38-4d72-94c4-adad4c6fbdf1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF3300T5E"
+			(at 100.33 43.18 0)
+			(uuid "5963ce61-e58e-4db8-97e4-891a22595793")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 157.48 43.18 0)
@@ -7774,7 +8420,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 184.15 85.09 0)
+			(uuid "6b6369f3-7ebc-41f0-8905-4b12bf531594")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 184.15 85.09 0)
+			(uuid "1c55588b-eb89-4afe-9f4c-201ce4bc45a6")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 184.15 85.09 0)
+			(uuid "9ccdf006-ec62-4490-a4ca-0214baa4badb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 184.15 85.09 0)
+			(uuid "aeda8c8d-e3bc-428d-9fa2-ef1eaa1d987b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C")
 		(at 124.46 85.09 0)
@@ -7852,7 +8529,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 124.46 85.09 0)
+			(uuid "096f4a5c-226e-4625-b004-e731ff672d22")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 124.46 85.09 0)
+			(uuid "5bfcb9c3-d288-4e00-b2ab-29c035645d4a")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 124.46 85.09 0)
+			(uuid "c5d56c90-e0c3-4902-b146-a82ede702a29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 124.46 85.09 0)
+			(uuid "6f2890ac-89d3-4eed-88d4-cc7e5bd71a71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 196.85 60.96 0)
@@ -8093,7 +8801,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 74.93 68.58 0)
+			(uuid "d2f9219a-c0c8-4e65-90cf-6939c8994463")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 74.93 68.58 0)
+			(uuid "25f843c3-3129-4edd-a44a-501794ec8592")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 74.93 68.58 0)
+			(uuid "cc6a61dd-2b0a-453b-bf19-fae2957187f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 74.93 68.58 0)
+			(uuid "e4e32954-6093-429b-bb9d-038e95dbe3a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "LED:SK6812")
 		(at 138.43 68.58 0)
@@ -8178,7 +8917,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 138.43 68.58 0)
+			(uuid "7265157b-bb61-45df-aed2-db2006ae28f4")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 138.43 68.58 0)
+			(uuid "a5274ce2-88a5-4add-a700-5096be25e27a")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 138.43 68.58 0)
+			(uuid "61a5508d-bd39-4767-8f03-1fa06cc27f77")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 138.43 68.58 0)
+			(uuid "3db9ce18-fb81-47cc-8d43-d1c2060f073c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C")
 		(at 224.79 86.36 0)
@@ -8256,7 +9026,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 224.79 86.36 0)
+			(uuid "c279d39f-7dd4-4122-8eee-8493a0277920")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 224.79 86.36 0)
+			(uuid "592b2aa8-7a3e-4481-ae83-f22622332998")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 224.79 86.36 0)
+			(uuid "bd0c53c5-792f-458d-b8d5-ae95d68e4116")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 224.79 86.36 0)
+			(uuid "19d4998b-fd74-4df7-9b70-6a0a9bef3d21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "Device:C")
 		(at 83.82 85.09 0)
@@ -8334,7 +9135,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 83.82 85.09 0)
+			(uuid "cbf959a1-cd27-412b-82c3-a1ed74fb9a0a")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 83.82 85.09 0)
+			(uuid "3a351474-59dc-4cc5-b025-65efc912cc20")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 83.82 85.09 0)
+			(uuid "af4dc1c4-b509-411d-b733-ceae21363237")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 83.82 85.09 0)
+			(uuid "5a4eb92f-58d0-46d1-97ae-788bff41d72e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 200.66 135.89 0)
@@ -8489,7 +9321,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 166.37 85.09 0)
+			(uuid "8b93bcfb-0a2a-43a5-a556-99d545ac18ad")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 166.37 85.09 0)
+			(uuid "10031c2e-0015-4ea8-8c83-4754b9bb01db")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 166.37 85.09 0)
+			(uuid "66adcea1-4f68-4a39-94dd-63c58992a09b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 166.37 85.09 0)
+			(uuid "3c562815-26fd-4430-968e-7b86f792dbed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 53.34 60.96 0)
@@ -8964,7 +9827,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C22464516"
+			(at 177.8 68.58 0)
+			(uuid "476d1c98-7cee-4a01-adb1-26ffbb1f449f")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 177.8 68.58 0)
+			(uuid "d5b81ae5-bb5f-4bd0-a7cc-1922b06b0a69")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C22464516"
+			(at 177.8 68.58 0)
+			(uuid "6c885b28-31a1-4d9f-961a-fd4eb32dfa0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XL-5050RGBWC-WS2812B"
+			(at 177.8 68.58 0)
+			(uuid "3aae724b-4b18-456f-8df0-6a12e696025d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 95.25 91.44 0)
@@ -9198,7 +10092,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14663"
+			(at 203.2 86.36 0)
+			(uuid "71b27b81-c04f-4f65-9cdd-e70a5abb0817")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 203.2 86.36 0)
+			(uuid "6db25c11-f1e3-4e5e-8a7f-9437ab89ae59")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C14663"
+			(at 203.2 86.36 0)
+			(uuid "0fc62828-c541-47d7-b2b3-0ccc88ff6608")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 203.2 86.36 0)
+			(uuid "e56e6c68-bf06-4a63-adcc-1d78f254d113")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 116.84 60.96 0)
@@ -9472,7 +10397,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C842299"
+			(at 189.23 38.1 0)
+			(uuid "196fb003-3420-468a-92c7-d6f0337c4cf0")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 189.23 38.1 0)
+			(uuid "263ecd8b-c84d-4617-93b9-1e82d6a2321e")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C842299"
+			(at 189.23 38.1 0)
+			(uuid "e71a070b-4a99-42fd-8f73-58cb6fa63183")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 189.23 38.1 0)
+			(uuid "be99c844-d217-4a31-8b8e-e0f2520abca1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:+5V")
 		(at 123.19 49.53 0)
@@ -9666,7 +10622,38 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C842299"
+			(at 165.1 43.18 0)
+			(uuid "262d6c2a-03b3-444d-8a83-cd506feecb9a")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 165.1 43.18 0)
+			(uuid "7253ca88-02fe-4d85-bce9-3bc946200ebd")
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+)
+		(property "LCSC" "C842299"
+			(at 165.1 43.18 0)
+			(uuid "78d2c3cb-2f00-4687-8c68-6efdaca6db90")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHCT125S14-13"
+			(at 165.1 43.18 0)
+			(uuid "1360511a-44c2-4c24-9eb8-24bb231a630c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 158.75 91.44 0)
