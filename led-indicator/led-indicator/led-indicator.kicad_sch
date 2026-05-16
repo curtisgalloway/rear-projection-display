@@ -1555,7 +1555,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "XT30UPB-F"
+			(property "Value" "XT30U-M"
 				(at 5.08 -1.2699 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1566,7 +1566,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+			(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 				(at 0 -8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1577,7 +1577,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Banana-and-Tip-Connectors_Changzhou-Amass-Elec-XT30UPB-F_C108769.html"
+			(property "Datasheet" "https://www.lcsc.com/product-detail/C99101.html"
 				(at 0 -11.43 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1610,7 +1610,7 @@
 					)
 				)
 			)
-			(property "MPN" "XT30UPB-F30.G.Y"
+			(property "MPN" "XT30U-M"
 				(at 0 -16.51 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1621,7 +1621,7 @@
 					)
 				)
 			)
-			(property "LCSC Part" "C108769"
+			(property "LCSC Part" "C99101"
 				(at 0 -19.05 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6896,7 +6896,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "XT30UPB-F"
+		(property "Value" "XT30U-M"
 			(at 111.76 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6907,7 +6907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 116.84 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -6918,7 +6918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Banana-and-Tip-Connectors_Changzhou-Amass-Elec-XT30UPB-F_C108769.html"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C99101.html"
 			(at 116.84 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6951,7 +6951,7 @@
 				)
 			)
 		)
-		(property "MPN" "XT30UPB-F30.G.Y"
+		(property "MPN" "XT30U-M"
 			(at 116.84 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -6962,7 +6962,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C108769"
+		(property "LCSC Part" "C99101"
 			(at 116.84 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6987,13 +6987,13 @@
 				)
 			)
 		)
-			(property "LCSC" "C108769"
+			(property "LCSC" "C99101"
 			(at 116.84 137.16 0)
 			(uuid "e4c973fb-9a5d-406a-8066-41cdedbe2175")
 			(effects (font (size 1.27 1.27)) (hide yes))
 		)
 )
-		(property "LCSC" "C108769"
+		(property "LCSC" "C99101"
 			(at 116.84 137.16 0)
 			(uuid "6cbfa677-f4e4-4e66-99e9-d1ae58a41491")
 			(effects
