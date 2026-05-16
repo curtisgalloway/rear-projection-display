@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "led-indicator.kicad_pro",
-  "current": "2026-05-15_1222-2",
+  "current": "2026-05-15_1657",
   "runs": {
     "2026-05-15_1149": {
       "source_hashes": {
@@ -38,7 +38,8 @@
     },
     "2026-05-15_1222-2": {
       "source_hashes": {
-        "led-indicator.kicad_pcb": "sha256:bb5d2524ed2286d5797ddf7525601893d17121cd70a07273ad9747b50b33da08"
+        "led-indicator.kicad_pcb": "sha256:bb5d2524ed2286d5797ddf7525601893d17121cd70a07273ad9747b50b33da08",
+        "led-indicator.kicad_sch": "sha256:04b276a15cbeae6cd7431097b438eaa1b2534990d26c891bf21bc7cc345431f8"
       },
       "outputs": {
         "schematic": "schematic.json",
@@ -49,7 +50,40 @@
       "scripts": {
         "pcb": "analyze_pcb.py led-indicator.kicad_pcb"
       },
-      "generated": "2026-05-15T12:22:25-07:00",
+      "generated": "2026-05-15T16:14:18-07:00",
+      "pinned": false
+    },
+    "2026-05-15_1614": {
+      "source_hashes": {
+        "led-indicator.kicad_pcb": "sha256:c9d34f2b2a7587369bc28a735ea9ae2115b2c7ac13e85955dc9facd30d4efe08"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "pcb": "analyze_pcb.py led-indicator.kicad_pcb"
+      },
+      "generated": "2026-05-15T16:14:19-07:00",
+      "pinned": false
+    },
+    "2026-05-15_1657": {
+      "source_hashes": {
+        "led-indicator.kicad_pcb": "sha256:be64ec7a81a82529591409e2b629854d559db78a87a2335c9326a816288903fe",
+        "led-indicator.kicad_sch": "sha256:04b276a15cbeae6cd7431097b438eaa1b2534990d26c891bf21bc7cc345431f8"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "pcb": "analyze_pcb.py led-indicator.kicad_pcb"
+      },
+      "generated": "2026-05-15T16:57:41-07:00",
       "pinned": false
     }
   }
